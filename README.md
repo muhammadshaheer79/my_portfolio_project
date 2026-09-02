@@ -28,7 +28,7 @@ A sleek, responsive, and performance-optimized developer portfolio built using m
 
 - **React 19 / Vite:** Fast compilation ecosystem paired with a modern UI component architecture.
 - **TailwindCSS:** Utility-first CSS framework ensuring responsive layout flow.
-- **HTML5 & CSS3:** Semantic structure and fine-tuned custom animations.
+- **HTML5, CSS3 & JavaScript:** Semantic structure, elegant styling, fine-tuned custom animations and interactivty.
 
 ### Integrations & Ecosystem
 
