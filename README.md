@@ -4,7 +4,7 @@ A sleek, responsive, and performance-optimized developer portfolio built using m
 
 ## 🔗 Live Demo
 
-- **Live Website:**
+- **Live Website:** https://my-portfolio-project-teal-six.vercel.app/
 - **Design Inspiration:** Modern, dark-themed UI focused on clean typography and visual anchors.
 
 ---
